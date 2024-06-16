@@ -1,21 +1,19 @@
-// please update required information
 const siteMetadata = {
-    title: 'Next.js Blog With Tailwind CSS and Contentlayer',
-    author: 'highabhi',
-    headerTitle: 'Next.js Blog',
-    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
+    title: 'Unbrain - Navigating the Future of Digital and Darknet Worlds',
+    author: 'Abhishek',
+    headerTitle: 'UnBrain',
+    description: 'Unbrain.io connects you to the pulse of the digital age. With a focus on cryptocurrency, cutting-edge technology, and the darknet, we provide a unique blend of news, analysis, and insights. Stay informed and ahead of the trends with Unbrain.io, your ultimate source for hot and hidden news.',
     language: 'en-us',
     theme: 'system', // system, dark or light
-    siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
-    siteLogo: '/logo.png',
+    siteUrl: 'https://unbrain.io', // 
+    // siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
-    email: 'highabhi27@gmail.com', 
-    github: 'https://github.com/highabhi27',
-    twitter: 'https://twitter.com/code_bucks',
-    facebook: 'https://facebook.com',
-    youtube: 'https://youtube.com/highabhi',
+    email: 'pr.abhi@hotmail.com', 
+    github: 'https://github.com/highabhi',
+    twitter: 'https://x.com/highabhii',
+    // facebook: 'https://facebook.com',
+    youtube: 'https://www.youtube.com/channel/UCMQ_jYhouzF6L_QzX5WxY_A',
     linkedin: 'https://www.linkedin.com/in/highabhi/',
-    dribbble: 'https://www.dribbble.com',
     locale: 'en-US',
   }
   

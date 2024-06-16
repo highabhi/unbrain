@@ -1,4 +1,4 @@
-// File: /home/kartoon/Desktop/unbrain/unbrain-frontend/src/app/categories/[slug]/page.js
+// File: /home/kartoon/Desktop/unbrain/unbrain/src/app/categories/[slug]/page.js
 import * as entry from '../../../../../src/app/categories/[slug]/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
