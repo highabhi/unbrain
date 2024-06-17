@@ -1,5 +1,1 @@
-{
-  "/page": "app/page.js",
-  "/apple-icon.png/route": "app/apple-icon.png/route.js",
-  "/categories/[slug]/page": "app/categories/[slug]/page.js"
-}
+{}
